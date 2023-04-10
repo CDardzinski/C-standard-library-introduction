@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602875176 source:d:\elektronika\kod\prj\wskaznikikilkatasamatablica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

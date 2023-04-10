@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603477623 source:d:\elektronika\kod\prj\wskaznikiodczytdanychscanf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
