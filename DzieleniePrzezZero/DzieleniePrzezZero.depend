@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600950823 source:d:\elektronika\kod\prj\dzielenieprzezzero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

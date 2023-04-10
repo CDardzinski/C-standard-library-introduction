@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600949668 source:d:\elektronika\kod\prj\zmienne_i_printf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
