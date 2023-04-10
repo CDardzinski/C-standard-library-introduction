@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601411915 source:d:\elektronika\kod\prj\petlazagnie¿dzonerysowaniex.v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

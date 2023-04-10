@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601468169 source:d:\elektronika\kod\prj\petlezagniezdzoneliczbypierwsze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+

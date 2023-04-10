@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601383620 source:d:\elektronika\kod\prj\petlaiteracyjnaforifciagfibonnaciego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
