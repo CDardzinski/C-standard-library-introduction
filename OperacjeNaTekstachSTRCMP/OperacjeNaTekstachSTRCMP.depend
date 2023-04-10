@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615032715 source:d:\elektronika\kod\prj\operacjenatekstachstrcmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
