@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601910774 source:d:\elektronika\kod\prj\tablicasredniazelementowtablicy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

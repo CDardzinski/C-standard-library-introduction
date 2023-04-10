@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601738382 source:d:\elektronika\kod\prj\tablicewypelnieniekomciagfibo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

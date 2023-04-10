@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602004416 source:d:\elektronika\kod\prj\tablicewyszukiwanienajczestrzegoelementu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

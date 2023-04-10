@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602347428 source:d:\elektronika\kod\prj\tablicesortowanieprzezwstawianie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
