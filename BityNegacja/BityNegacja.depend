@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604687749 source:d:\elektronika\kod\prj\bitynegacja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

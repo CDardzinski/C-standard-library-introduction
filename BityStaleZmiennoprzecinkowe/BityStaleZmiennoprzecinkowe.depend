@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603653837 source:d:\elektronika\kod\prj\bitystalezmiennoprzecinkowe\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+
