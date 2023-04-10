@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603555592 source:d:\elektronika\kod\prj\funkcjezmienneglobalne\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

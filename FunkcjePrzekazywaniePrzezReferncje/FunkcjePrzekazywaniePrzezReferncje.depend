@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603565691 source:d:\elektronika\kod\prj\funkcjeprzekazywanieprzezreferncje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603559889 source:d:\elektronika\kod\prj\funkcjestosdanych\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+

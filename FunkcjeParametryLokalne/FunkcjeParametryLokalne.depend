@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603554772 source:d:\elektronika\kod\prj\funkcjeparametrylokalne\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
