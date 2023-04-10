@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601575446 source:d:\elektronika\kod\prj\tablicewyswietlaniepojkomorki\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
