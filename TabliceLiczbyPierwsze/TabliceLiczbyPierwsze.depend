@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601833825 source:d:\elektronika\kod\prj\tabliceliczbypierwsze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

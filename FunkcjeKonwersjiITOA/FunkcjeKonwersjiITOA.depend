@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615719175 source:d:\elektronika\kod\prj\funkcjekonwersjiitoa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
