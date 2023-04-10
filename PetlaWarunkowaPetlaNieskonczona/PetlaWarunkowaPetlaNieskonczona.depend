@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601378445 source:d:\elektronika\kod\prj\petlawarunkowapetlanieskonczona\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
